@@ -17,4 +17,4 @@ for (i = 0, len1 = app_id_array.length; i < len1; i++) {
             user_name: user_info_array[j][1]
         } );
     }
-}
+};

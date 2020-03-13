@@ -43,4 +43,4 @@ cursor.forEach(function(doc) {
 
 if (ops.length > 0) {
     db.collection.bulkWrite(ops);
-}
+};
